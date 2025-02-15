@@ -1,5 +1,3 @@
-// File: pages/index.js
-import React from 'react';
 import PromotionForm from '../components/PromotionForm';
 
 export default function Home() {
